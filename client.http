@@ -34,10 +34,10 @@ GET {{baseUrl}}/rooms/{{roomId}}/questions
 ###
 # Create Room
 # @name createQuestion
-POST {{baseUrl}}/rooms/{{roomId}}/questions
+POST {{baseUrl}}/rooms/1c9be4b6-d159-45f0-a1ba-cb5d5526bd1e/questions
 Accept: application/json
 Content-Type: application/json
 
 {
-  "question": "Question 2"
+  "question": "arquivo com silencio"
 }

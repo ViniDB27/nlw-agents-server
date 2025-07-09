@@ -15,6 +15,13 @@
       "when": 1751977890355,
       "tag": "0001_silky_the_twelve",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1752073892533,
+      "tag": "0002_tiny_colossus",
+      "breakpoints": true
     }
   ]
 }
